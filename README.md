@@ -31,6 +31,20 @@ I'm a passionate developer focused on building functional desktop applications a
 
 ---
 
-### 📊 GitHub Stats
-![Tentex1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tentex1&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tentex1&layout=compact&theme=tokyonight)
+### 📊 Performance & Skills
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Tentex1&show_icons=true&theme=radical&hide_border=true" width="400" alt="Tentex1 Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tentex1&layout=compact&theme=radical&hide_border=true" width="300" alt="Tentex1 Languages" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tentex1&theme=radical&hide_border=true)
