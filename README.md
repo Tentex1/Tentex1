@@ -1,4 +1,4 @@
-# Hi, I'm Duran 👋
+# Hi, I'm Tentex1 👋
 
 🚀 **Software Developer & Open Source Contributor**
 
@@ -6,29 +6,26 @@ I'm a passionate developer focused on building functional desktop applications a
 
 ---
 
-### 🛠️ Technologies & Stack
-- **Languages:** C#, XAML, HTML/CSS, JavaScript
-- **Frameworks:** WPF (.NET), MVVM, React Native, .NET MAUI
-- **Tools:** Git, ADB & Fastboot, Magisk, Visual Studio
+### 🛠️ Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+</p>
 
 ---
 
 ### 📁 Featured Projects
-- **ADB & Fastboot GUI:** A graphical interface designed to simplify Android debugging and flashing.
-
----
-
-### 🔭 Interests
-- **Android Modding:** Custom ROMs, system optimization, and kernel tweaks.
-- **Game Dev & Logic:** Exploring game mechanics and memory-based logic in C#.
-- **PC Hardware:** System performance tuning and hardware optimization.
+* **ADB & Fastboot GUI:** A graphical interface designed to simplify Android debugging and flashing.
 
 ---
 
 ### 🤝 Connect with me
-- **GitHub:** [Tentex1](https://github.com/Tentex1)
-- **Discord:** `duranforreal`
-
+* **Discord:** `duranforreal`
+* **GitHub:** [Tentex1](https://github.com/Tentex1)
 ---
 
 ### 📊 Performance & Skills
