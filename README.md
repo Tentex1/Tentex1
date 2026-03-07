@@ -1,4 +1,4 @@
-# Hi, I'm Tentex1 👋
+# Hi, I'm Duran 👋
 
 🚀 **Software Developer & Open Source Contributor**
 
@@ -14,10 +14,7 @@ I'm a passionate developer focused on building functional desktop applications a
 ---
 
 ### 📁 Featured Projects
-- **SkyStock:** A comprehensive stock and order management system built with WPF and MVVM.
 - **ADB & Fastboot GUI:** A graphical interface designed to simplify Android debugging and flashing.
-- **UniGetUI:** Official Turkish Translator and active contributor to the project.
-- **Custom Browser:** A C# based web browser with advanced tab management.
 
 ---
 
@@ -30,7 +27,7 @@ I'm a passionate developer focused on building functional desktop applications a
 
 ### 🤝 Connect with me
 - **GitHub:** [Tentex1](https://github.com/Tentex1)
-- **Discord:** `tentex1`
+- **Discord:** `duranforreal`
 
 ---
 
