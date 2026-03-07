@@ -1,40 +1,39 @@
-# Selam, ben Tentex1 👋
+# Hi, I'm Tentex1 👋
 
-🚀 **10. Sınıf Bilişim Teknolojileri Öğrencisi & Yazılım Geliştirici**
+🚀 **Software Developer & Open Source Contributor**
 
-Şu anda masaüstü uygulama geliştirme, Android özelleştirme ve açık kaynak dünyasına katkıda bulunma konularına odaklanmış durumdayım.
-
----
-
-### 🛠️ Teknolojiler ve Araçlar
-- **Diller:** C#, XAML, HTML, CSS, JavaScript
-- **Frameworkler:** WPF (.NET), MVVM Pattern, React Native, .NET MAUI
-- **Araçlar:** Git, GitHub, ADB & Fastboot, Magisk
+I'm a passionate developer focused on building functional desktop applications and exploring the Android ecosystem. Currently diving deep into C# and modern UI frameworks.
 
 ---
 
-### 📁 Üzerinde Çalıştığım Projeler
-- **SkyStock:** WPF ve MVVM mimarisiyle geliştirilen kapsamlı bir stok ve sipariş yönetim uygulaması.
-- **ADB & Fastboot GUI:** Android cihazlar için komut satırı karmaşasını ortadan kaldıran grafiksel arayüz.
-- **Custom Web Browser:** C# ve WPF tabanlı, sekme yönetimi özelliklerine sahip modern bir tarayıcı.
-- **UniGetUI:** Resmi Türkçe çevirmeni ve katkıda bulunucusu.
+### 🛠️ Technologies & Stack
+- **Languages:** C#, XAML, HTML/CSS, JavaScript
+- **Frameworks:** WPF (.NET), MVVM, React Native, .NET MAUI
+- **Tools:** Git, ADB & Fastboot, Magisk, Visual Studio
 
 ---
 
-### 🎮 İlgi Alanları & Hobiler
-- **Minecraft:** Sunucu yönetimi ve taşınabilir launcher projeleri.
-- **Android Modding:** Custom ROM'lar (LineageOS, PixelOS) ve sistem optimizasyonları.
-- **Hardware:** PC donanımı ve sistem performans tuning (Ryzen 5 5600 & RTX 3060 gücüyle!).
-- **Gaming:** Euro Truck Simulator 2 ve Undertale.
+### 📁 Featured Projects
+- **SkyStock:** A comprehensive stock and order management system built with WPF and MVVM.
+- **ADB & Fastboot GUI:** A graphical interface designed to simplify Android debugging and flashing.
+- **UniGetUI:** Official Turkish Translator and active contributor to the project.
+- **Custom Browser:** A C# based web browser with advanced tab management.
 
 ---
 
-### 🤝 İletişim
+### 🔭 Interests
+- **Android Modding:** Custom ROMs, system optimization, and kernel tweaks.
+- **Game Dev & Logic:** Exploring game mechanics and memory-based logic in C#.
+- **PC Hardware:** System performance tuning and hardware optimization.
+
+---
+
+### 🤝 Connect with me
 - **GitHub:** [Tentex1](https://github.com/Tentex1)
-- **Discord:** `@tentex1` (Veya kullandığın ID)
+- **Discord:** `tentex1`
 
 ---
 
-### 📊 İstatistikler
-![Tentex1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tentex1&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tentex1&layout=compact&theme=dark)
+### 📊 GitHub Stats
+![Tentex1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tentex1&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tentex1&layout=compact&theme=tokyonight)
