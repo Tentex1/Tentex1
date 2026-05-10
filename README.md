@@ -1,4 +1,4 @@
-# Hi, I'm Tentex1 👋
+# Hi, I'm Duran👋
 
 🚀 **Software Developer & Open Source Contributor**
 
