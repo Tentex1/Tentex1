@@ -17,7 +17,6 @@ Welcome to my developer profile! I am a passionate software developer focused on
 ### 🛠️ Technologies & Skills
 
 #### 🔮 .NET Ecosystem & Frameworks
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 [![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?logo=dotnet&logoColor=fff)](#)
 [![WPF](https://custom-icon-badges.demolab.com/badge/WPF-512BD4?logo=windows11&logoColor=fff)](#)
 [![Windows Forms](https://custom-icon-badges.demolab.com/badge/Windows%20Forms-0078D6?logo=windows10&logoColor=fff)](#)
