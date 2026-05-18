@@ -61,10 +61,3 @@ Let's build something awesome together! Feel free to reach out to me on any of t
 * 📸 **Instagram:** [@duranforreal](https://instagram.com/duranforreal)
 * 💬 **Discord:** `duranforreal`
 * 📂 **GitHub:** [Tentex1](https://github.com/Tentex1)
-
----
-
-<p align="center">
-  <sub>Designed & Developed with Premium Neon Tech by <b>Antigravity AI</b></sub><br>
-  <sub>Google DeepMind - Advanced Agentic Coding Team</sub>
-</p>
