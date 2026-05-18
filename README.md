@@ -44,11 +44,6 @@ Welcome to my developer profile! I am a passionate software developer focused on
 ### 📊 GitHub Stats & Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tentex1&show_icons=true&theme=radical&hide_border=true" alt="Tentex1 Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tentex1&layout=compact&theme=radical&hide_border=true" alt="Tentex1 Languages" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tentex1&theme=radical&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
