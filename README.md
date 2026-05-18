@@ -23,7 +23,7 @@ Welcome to my developer profile! I am a passionate software developer focused on
 
 #### 💻 Programming Languages
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-[![XAML](https://custom-icon-badges.demolab.com/badge/XAML-0C54C2?logo=code&logoColor=white)](#)
+[![XAML](https://custom-icon-badges.demolab.com/badge/XAML-0C54C2?logo=xaml&logoColor=fff)](#)
 
 #### 🗄️ Databases
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
