@@ -1,11 +1,6 @@
 <div align="center">
   <h1>🌌 Hi, I'm Duran "Tentex" 👋</h1>
   <h3>🚀 Software Developer & Open Source Contributor</h3>
-  
-  <!-- Canlı Ziyaretçi Sayacı -->
-  <img src="https://komarev.com/ghvc/?username=Tentex1&label=Profile%20Views&color=4157ff&style=flat-square" alt="visitor counter" />
-
-  <br /><br />
 
   <p>Welcome to my developer profile! I am a passionate software developer focused on building functional desktop applications and exploring the Android ecosystem. Currently diving deep into C# and modern UI frameworks.</p>
 
@@ -15,18 +10,6 @@
   <a href="https://tentex1.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Portfolio-tentex1.github.io-f7c96e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio" />
   </a>
-
-  <br /><br />
-  
-  <!-- Dil ve Genel İstatistik Kartları -->
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Tentex1&layout=compact&langs_count=8&theme=tokyonight&card_width=320&hide=html,css,javascript,js" target="_blank">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tentex1&layout=compact&langs_count=8&theme=tokyonight&card_width=320&hide=html,css,javascript,js" alt="Top Langs" />
-  </a> 
-  <a href="https://github-readme-stats.vercel.app/api?username=Tentex1&hide=contribs&show=reviews&show_icons=true&theme=tokyonight" target="_blank">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Tentex1&hide=contribs&show=reviews&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-
-  <br /><br />
   <hr />
 </div>
 
@@ -76,6 +59,6 @@
 
 Let's build something awesome together! Feel free to reach out to me on any of these platforms:
 
-* 📸 **Instagram:** [@duranforreal](https://instagram.com/duranforreal)
+* ✉️ **E-mail:** drnyvz2@gmail.com
 * 💬 **Discord:** `duranforreal`
 * 📂 **GitHub:** [Tentex1](https://github.com/Tentex1)
